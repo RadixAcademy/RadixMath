@@ -1,3 +1,19 @@
+## Welcome to Radix Math pages
+
+Radix Math is the only app that walks students through addition and subtraction problems in a step by step approach.  At every step, it shows the next move students should take and provides feedback whether it is correct or not.  Inside the heart of Radix Math, there is a patent pending smart algorithm that analyzes each problem and provides consistent approach to solving the problem so that students can make the problem solving skills their own.
+
+Currently, Radix Math provides the following addition and subtraction problems:
+
+Addition: Two Digits (Easy), Two Digits (Hard), Three Digits (Easy), Three Digits (Hard), Four Digits
+
+Subtraction: Two Digits (Easy), Two Digits (Hard), Three Digits (Easy), Three Digits (Hard), Four Digits
+
+We are currently working hard to add multiplication and division to Radix Math, and they will become available soon.  
+
+Please contact us if you have any questions or comments at radixacademy@outlook.com.  We will look forward to hearing from you!
+
+
+
 ## Privacy Policy
 
 Radix Academy LLC built the Radix Math app as a Commercial app. This SERVICE is provided by Radix Academy LLC and is intended for use as is.
